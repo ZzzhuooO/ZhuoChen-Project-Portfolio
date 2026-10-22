@@ -19,4 +19,4 @@ SQL、MySQL Workbench、关系数据库建模、ER Diagram、主外键及关联�
 [查看原尺寸 ER 图](Physical%20ER%20Model%20export.png)
 
 ## 如何运行
-当前可直接查看本页中的 ER 图，无需安装。要编辑模型，请在 MySQL Workbench 中打开原始 .mwb 文件；模型文件尚未随仓库公开。若需实际建库，还需导出并检查建表 SQL。
+当前可直接查看本页中的 ER 图，无需安装。模型文件尚未随仓库公开。
