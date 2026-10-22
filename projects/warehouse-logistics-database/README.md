@@ -14,5 +14,9 @@ SQL、MySQL Workbench、关系数据库建模、ER Diagram、主外键及关联�
 ## 结果或演示
 完成覆盖客户、商品、仓储、订单、运输和员工认证等业务环节的物理 ER 模型，明确实体关系、字段类型与主外键约束。该成果聚焦数据库结构设计，尚未部署为业务系统。
 
+![仓储与物流数据库物理 ER 图](Physical%20ER%20Model%20export.png)
+
+[查看原尺寸 ER 图](Physical%20ER%20Model%20export.png)
+
 ## 如何运行
-使用 MySQL Workbench 打开 Physical ER Model.mwb 查看模型。当前仓库先展示项目说明；模型文件与导出图完成隐私检查后再补充。若需真正建库，还需导出并检查建表 SQL，不能仅凭 ER 图宣称系统已部署。
+当前可直接查看本页中的 ER 图，无需安装。要编辑模型，请在 MySQL Workbench 中打开原始 .mwb 文件；模型文件尚未随仓库公开。若需实际建库，还需导出并检查建表 SQL。
