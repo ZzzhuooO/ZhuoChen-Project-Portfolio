@@ -25,4 +25,4 @@ Python、Jupyter Notebook、xarray、NumPy、Matplotlib、Cartopy、ERA5 再分�
 ![高低风强年份风场差异垂直剖面](figure_08.png)
 
 ## 如何运行
-分析使用 Python 3 与 Jupyter Notebook，并依赖 xarray、NumPy、Matplotlib 和 Cartopy。原始 ERA5 NetCDF 数据不随仓库分发；Notebook 公开前需把本机数据路径改为相对路径并复核运行结果。当前页面展示经报告核对的研究问题、方法、关键结果及两张结果图。
+分析使用 Python 3 与 Jupyter Notebook，并依赖 xarray、NumPy、Matplotlib 和 Cartopy。原始 ERA5 NetCDF 数据不随仓库分发；若补充 Notebook，需将本机数据路径改为相对路径并复核运行结果。当前页面展示经报告核对的研究问题、方法、关键结果及两张结果图。
