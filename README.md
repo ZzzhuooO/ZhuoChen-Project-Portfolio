@@ -13,6 +13,10 @@
 | [Codex 辅助内容制作与可复用工作流](projects/ai-assisted-workflows/README.md) | 拆解任务、配置 Skills 与插件、人工验收并迭代 | 应用于账号复盘、书房设计、单词本和学习资料制作 |
 | [供水基础设施概念设计与参数分析](projects/residential-water-system/README.md) | 负责团队协调，使用 MATLAB 计算需求和管网参数 | 完成概念方案及支撑设计讨论的参数分析 |
 
+## 个人创意与交互实践
+
+- [可露丽小厨房：六步制作交互玩具](projects/canele-kitchen/README.md)：整理配方与六步流程，设计投料、搅拌、装模和调温反馈，并借助 AI 实现 Python/Tkinter 桌面原型。
+
 ## 地球科学与工程项目
 
 - [野外地质填图与构造数据整理](projects/geological-field-mapping/README.md)：60 余组构造测量数据、6 张工作图、2 条地质剖面。
