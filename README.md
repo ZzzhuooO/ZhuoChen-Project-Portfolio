@@ -15,7 +15,7 @@
 
 ## 个人创意与交互实践
 
-- [可露丽小厨房：六步制作交互玩具](projects/canele-kitchen/README.md)：整理配方与六步流程，设计投料、搅拌、装模和调温反馈，并借助 AI 实现 Python/Tkinter 桌面原型。
+- [可露丽小厨房：六步制作交互玩具](projects/canele-kitchen/README.md)：整理配方与六步流程，设计投料、搅拌、装模和调温反馈，写出Python骨架，由Codex细化并检验代码，借助 AI 实现 Python/Tkinter 桌面原型。
 
 ## 地球科学与工程项目
 
